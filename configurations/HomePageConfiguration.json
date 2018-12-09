@@ -1,0 +1,5 @@
+{
+    "accountList":"//*[@id = 'nav-link-accountList']",
+    "header": "//h1",
+    "amazonLogoText":"//*[@class = 'nav-sprite nav-logo-base']"
+}

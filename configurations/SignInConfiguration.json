@@ -1,0 +1,7 @@
+{
+    "header": "//h1",
+    "emailField": "#ap_email",
+    "emailLabel": "//label[@for = 'ap_email']",
+    "passField": "//*[@id='ap_password']",
+    "passLabel": "//label[@for = 'ap_password']"
+}
